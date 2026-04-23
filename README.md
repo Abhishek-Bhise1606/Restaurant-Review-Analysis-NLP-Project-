@@ -1,4 +1,4 @@
-# 🍽️ Restaurant Review Analysis
+# 🍽️ Restaurant Review Analysis (NLP PROJECT)
 
 ## 📌 Project Overview
 
